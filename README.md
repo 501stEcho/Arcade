@@ -56,7 +56,7 @@ In order to execute the binary, you have to pass as an argument the path to the 
 At all times when playing, you can press several keys :
 - **M** to change game
 - **L** to change graphical library
-- **ESC** to quit the game
+- **Q** to quit the game
 - **R** to restart the game
 
 In the menu you can press :
@@ -83,7 +83,7 @@ You gain points by eating the fruits in the level. If you ever bite your own tai
 - **LEFT, RIGHT, TOP, DOWN** : move the character
 
 ### Nibbler
-![Screenshot of Nibbler](./screenshots/snake_screen1.png)
+![Screenshot of Nibbler](./screenshots/snake_nibbler1.png)
 This game is similar to the snake, because you are a snake who needs to eat all fruits in the level and whose size increases by 1 for each fruit eaten. But in the nibbler, there are obstacles in the map and you have a time limit for each level.
 
 **Commands** :
