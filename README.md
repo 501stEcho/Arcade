@@ -110,5 +110,5 @@ You can destroy enemies' projectiles with your hammer.
 ![Screenshot of the menu](./screenshots/menu_screen1.png)
 ![Screenshot of Pac man](./screenshots/pacman_screen1.png)
 ![Screenshot of Snake](./screenshots/snake_screen1.png)
-![Screenshot of Nibbler](./screenshots/snake_screen1.png)
+![Screenshot of Nibbler](./screenshots/nibbler_screen1.png)
 ![Screenshot of SolarFox](./screenshots/solarfox_screen1.png)
