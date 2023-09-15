@@ -83,7 +83,7 @@ You gain points by eating the fruits in the level. If you ever bite your own tai
 - **LEFT, RIGHT, TOP, DOWN** : move the character
 
 ### Nibbler
-![Screenshot of Nibbler](./screenshots/snake_nibbler1.png)
+![Screenshot of Nibbler](./screenshots/nibbler_screen1.png)
 This game is similar to the snake, because you are a snake who needs to eat all fruits in the level and whose size increases by 1 for each fruit eaten. But in the nibbler, there are obstacles in the map and you have a time limit for each level.
 
 **Commands** :
